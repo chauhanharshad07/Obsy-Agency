@@ -253,7 +253,7 @@ html,body{
 #flag{
     width: 30vh;
     position: absolute;
-    top:-20%; 
+    top:0%; 
     left: 0;
     -webkit-transform: translate(-50%,-50%);
         -ms-transform: translate(-50%,-50%);
